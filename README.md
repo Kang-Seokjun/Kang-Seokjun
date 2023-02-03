@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-Seokjun)](https://github.com/Kang-Seokjun/github-readme-stats)
 
 <!--
 **Kang-Seokjun/Kang-Seokjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
